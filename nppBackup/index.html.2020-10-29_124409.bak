@@ -235,7 +235,7 @@
                   <span class="mb-0"></span>
               </a>              			  
             </div>
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            <!--<div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">-->
               <!--<a href="https://www.google.com/maps" class="tm-contact-item-link">-->
                   <!--<i class="fas fa-3x fa-map-marker-alt mr-4"></i>-->
 				  <img src="Neon Arrow.jpg" alt="Neon Arrow">
