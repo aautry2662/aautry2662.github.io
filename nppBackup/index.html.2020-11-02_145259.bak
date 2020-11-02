@@ -238,11 +238,11 @@
             </div>
            <!-- <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <!--<a href="https://www.google.com/maps" class="tm-contact-item-link">-->
-                  <!--<i class="fas fa-3x fa-map-marker-alt mr-4"></i>
+                  <!--<i class="fas fa-3x fa-map-marker-alt mr-4"></i>-->
                   <span class="mb-0"></span>
               </a>              
             </div>
-           <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+           <!-- <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <form action="" method="get">
                 <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
                 <button type="submit" class="btn tm-btn-submit">Submit</button>
