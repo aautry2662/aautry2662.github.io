@@ -125,7 +125,7 @@
         <div class="row">
           <div class="text-center col-12">
 		  <a href="https://www.instagram.com/amberautrycomedy/"> <img src="img/Insta Pop.jpg" alt="Image" class="img-fluid"></a>
-             <a href="https://www.instagram.com/amberautrycomedy/">Follow @AmberAutryComedy</a> <!--<h2 class="tm-text-primary tm-section-title mb-4">Follow @AmberAutryComedy</h2>-->
+             <a href="https://www.instagram.com/amberautrycomedy/"> <h2 class="tm-text-primary tm-section-title mb-4">Follow @AmberAutryComedy</h2>
               <!--<p class="mx-auto tm-work-description">
                 "Curabitur ac orci ac lorem blandit volutpat. Sed ac sodales nibh, ut
                 porttitor elit. Sed id dui mi. Vestibulum ante ipsum primis in faucibus
