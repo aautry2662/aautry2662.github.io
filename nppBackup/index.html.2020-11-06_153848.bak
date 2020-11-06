@@ -242,12 +242,6 @@
                   <span class="mb-0"></span>
               </a>              
             </div>
-           <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
-              <form action="" method="get">
-                <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
-                <button type="submit" class="btn tm-btn-submit">Submit</button>
-              </form>
-            </div>-->
 			<!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -291,6 +285,12 @@
 </div>
 
 <!--End mc_embed_signup-->
+           <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+              <form action="" method="get">
+                <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
+                <button type="submit" class="btn tm-btn-submit">Submit</button>
+              </form>
+            </div>-->
         </div>
       </div>
       <footer class="text-center small tm-footer">
