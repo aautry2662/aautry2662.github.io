@@ -127,11 +127,11 @@
 		  <a href="https://www.instagram.com/amberautrycomedy/"> <img src="img/Insta Pop.jpg" alt="Image" class="img-fluid"></a>
              <a href="https://www.instagram.com/amberautrycomedy/">Follow @AmberAutryComedy</a> 
 			 
-              <p class="mx-auto tm-work-description">
-                Testimonial: "Working with Amber Autry and her comedic companions has been one of the joys of this pandemic. Every show that I have set up with my organization has been executed flawlessly and professionally. 
-				I'd recommend Amber for any event that you are hosting whether it is professional or personal to bring much-needed comedic relief and entertainment. 
-				I look forward to partnering with her even more in the future."- Morgan Gorsuch Neighborhoods.com
-              </p>
+              <!--<p class="mx-auto tm-work-description">
+                "Curabitur ac orci ac lorem blandit volutpat. Sed ac sodales nibh, ut
+                porttitor elit. Sed id dui mi. Vestibulum ante ipsum primis in faucibus
+                orci luctus et ultrices posuere cubilia."
+              </p>-->
          <!-- </div>            
         </div>
         <div class="row">
