@@ -67,17 +67,15 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/rvNtknI4y9M" title="YouTube video player" 
-		   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <!-- <img src="img/the-town-01.jpg" alt="Image" class="img-fluid tm-intro-img" />-->
+           <iframe width="600" height="400" src="https://www.youtube.com/embed/6-qWpR1gSpw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+							allowfullscreen></iframe> <!-- <img src="img/the-town-01.jpg" alt="Image" class="img-fluid tm-intro-img" />-->
           </div>
           <div class="col-lg-6">
             <div class="tm-intro-text-container">
-                <h2 class="tm-text-primary mb-4 tm-section-title">AMBER AUTRY</h2>
+                <h2 class="tm-text-primary mb-4 tm-section-title">VIRTUAL SHOWS</h2>
                 <p class="mb-4 tm-intro-text">
-                  Amber Autry is a nationally touring Comedian based in Nashville who has opened for Jimmy O. Yang, hosted for Whitney Cummings, Ron Funches, and more. 
-				  She is a regular at Zanies Nashville and her Drybar Special 'That's My Best Friend' drops 2022. Book Amber now if you're looking for a professional 
-				  who brings the laughs and great energy!
-				 
+                  Amber Autry Produces a multitude of virtual shows for corporate offices and private events. 
+				  Book a show now to enjoy a custom comedy show to boost morale at the office or laugh with your people!
               </p>
                <!-- <p class="mb-5 tm-intro-text">
                   Please tell your friends about our site 
@@ -93,9 +91,9 @@
 
         <div class="row tm-section-pad-top">
           <div class="col-lg-4">
-           <iframe width="560" height="315" src="https://www.youtube.com/embed/6-qWpR1gSpw" title="YouTube video player" frameborder="0" 
+           <iframe width="370" height="210" src="https://www.youtube.com/embed/uFmFGDim_4g" title="YouTube video player" frameborder="0" 
 		   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            <h4 class="text-center tm-text-primary mb-4">VIRTUAL SHOWS</h4>
+            <h4 class="text-center tm-text-primary mb-4">LIVE SHOWS</h4>
             <!--<p>
               Sed ultrices sit amet mi eu malesuada. Cras ultricies gravida
               nisi, ac pellentesque nunc tincidunt quis. Aenean at ornare lacus.
